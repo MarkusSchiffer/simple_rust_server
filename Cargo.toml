@@ -1,0 +1,9 @@
+[package]
+name = "simple_rust_server"
+version = "0.1.0"
+authors = ["Markus Schiffer <47703802+MarkusSchiffer@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
